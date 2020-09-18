@@ -7,7 +7,7 @@
 Most Apps now feature login functionality before you can access all/some of the app's features.
 We would like to design a Login View with only default controls and styling, with an image beautifully shown on the left. How should we go about it?
 
-Take for instance that the ```screenshot_01.jpg``` in the ```resources/images``` folder is what we are imagining. How do you convert that imagination into a real UI for the Application
+Take for instance, that the ```screenshot_01.jpg``` in the ```resources/images``` folder is what we are imagining. How do you convert that imagination into a real UI for the Application
 
 
 
